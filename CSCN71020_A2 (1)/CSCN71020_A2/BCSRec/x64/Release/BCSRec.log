@@ -1,0 +1,6 @@
+﻿  main.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BCSRec.vcxproj -> C:\Users\d_nsh\OneDrive\Desktop\BCS\CSCN 71020\CSCN71020_assign02\CSCN71020_A2 (1)\CSCN71020_A2\x64\Release\BCSRec.exe

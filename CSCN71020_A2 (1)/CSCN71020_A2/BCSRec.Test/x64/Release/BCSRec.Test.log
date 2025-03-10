@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  BCSRec.Tests.cpp
+     Creating library C:\Users\d_nsh\OneDrive\Desktop\BCS\CSCN 71020\CSCN71020_assign02\CSCN71020_A2 (1)\CSCN71020_A2\x64\Release\BCSRec.Tests.lib and object C:\Users\d_nsh\OneDrive\Desktop\BCS\CSCN 71020\CSCN71020_assign02\CSCN71020_A2 (1)\CSCN71020_A2\x64\Release\BCSRec.Tests.exp
+BCSRec.Tests.obj : error LNK2001: unresolved external symbol getPerimeter
+BCSRec.Tests.obj : error LNK2001: unresolved external symbol getArea
+BCSRec.Tests.obj : error LNK2001: unresolved external symbol setLength
+BCSRec.Tests.obj : error LNK2001: unresolved external symbol setWidth
+C:\Users\d_nsh\OneDrive\Desktop\BCS\CSCN 71020\CSCN71020_assign02\CSCN71020_A2 (1)\CSCN71020_A2\x64\Release\BCSRec.Tests.dll : fatal error LNK1120: 4 unresolved externals

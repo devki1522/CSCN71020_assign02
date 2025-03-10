@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (BCSRec.Test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  BCSRec.Tests.cpp
+     Creating library C:\Users\d_nsh\OneDrive\Desktop\BCS\CSCN 71020\CSCN71020_assign02\CSCN71020_A2 (1)\CSCN71020_A2\x64\Debug\BCSRec.Tests.lib and object C:\Users\d_nsh\OneDrive\Desktop\BCS\CSCN 71020\CSCN71020_assign02\CSCN71020_A2 (1)\CSCN71020_A2\x64\Debug\BCSRec.Tests.exp
+  BCSRec.Test.vcxproj -> C:\Users\d_nsh\OneDrive\Desktop\BCS\CSCN 71020\CSCN71020_assign02\CSCN71020_A2 (1)\CSCN71020_A2\x64\Debug\BCSRec.Tests.dll
